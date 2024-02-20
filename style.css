@@ -1,0 +1,7 @@
+#grid-container {
+    /* Debugging - border: 1px solid red; */
+    display: flex;
+    flex-direction: column;
+    height: 960px;
+    width: 960px;
+}
